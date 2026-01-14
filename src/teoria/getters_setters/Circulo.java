@@ -1,4 +1,4 @@
-package teoria;
+package teoria.getters_setters;
 
 public class Circulo {
     private int radio = 7;

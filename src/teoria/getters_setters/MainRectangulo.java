@@ -1,4 +1,4 @@
-package teoria;
+package teoria.getters_setters;
 
 import java.util.ArrayList;
 import java.util.List;

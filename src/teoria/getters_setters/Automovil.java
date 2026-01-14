@@ -1,4 +1,4 @@
-package teoria;
+package teoria.getters_setters;
 
 public class Automovil {
     private String marca;
@@ -40,6 +40,7 @@ public class Automovil {
 
     @Override
     public String toString() {
-        return String.format("");
+        return String.format("%s,%s,%d,%b", marca, modelo, numeroAsientos, electrico);
     }
+
 }

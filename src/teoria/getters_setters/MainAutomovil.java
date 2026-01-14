@@ -1,10 +1,10 @@
-package teoria;
+package teoria.getters_setters;
 
 public class MainAutomovil {
     public static void main(String[] args) {
         Automovil automovil = new Automovil();
         System.out.println(automovil);
-        automovil.setMarca("set");
+        automovil.setMarca("seat");
         automovil.setModelo("ateca");
         automovil.setNumeroAsientos(5);
         automovil.setElectrico(true);

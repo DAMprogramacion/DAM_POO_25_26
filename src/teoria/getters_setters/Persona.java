@@ -1,4 +1,4 @@
-package teoria;
+package teoria.getters_setters;
 
 public class Persona {
     private String nombre;

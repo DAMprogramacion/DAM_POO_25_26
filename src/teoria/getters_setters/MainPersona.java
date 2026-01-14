@@ -1,4 +1,4 @@
-package teoria;
+package teoria.getters_setters;
 
 public class MainPersona {
     public static void main(String[] args) {
