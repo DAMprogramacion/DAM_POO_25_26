@@ -2,11 +2,13 @@ package ejercicios.ejercicio4;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
+import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 @Setter
 @Getter
 @AllArgsConstructor
+@NoArgsConstructor
 public class SistemaDosEcuacionesDosIncognitas {
     private int a, b, e;
     private int c, d, f;
